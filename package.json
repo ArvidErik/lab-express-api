@@ -1,0 +1,15 @@
+{
+  "name": "lab-express-api",
+  "version": "1.0.0",
+  "description": "In this lab we are going to create an API from scratch using Express and Node.js. We are not using the browser for anything.\r Imagine you are a backend developer and you need to create this server to deliver some data to the frontend team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

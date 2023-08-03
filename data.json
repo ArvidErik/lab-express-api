@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Harry",
+      "lastName": "Potter",
+      "age": 25,
+      "id": 1
+    },
+    {
+      "name": "Hermione",
+      "lastName": "Granger",
+      "age": 26,
+      "id": 2
+    },
+    {
+      "name": "Ron",
+      "lastName": "Weasley",
+      "age": 25,
+      "id": 3
+    },
+    {
+      "name": "Ginny",
+      "lastName": "Weasley",
+      "age": 24,
+      "id": 4
+    },
+    {
+      "name": "Draco",
+      "lastName": "Malfoy",
+      "age": 27,
+      "id": 5
+    },
+    {
+      "name": "Luna",
+      "lastName": "Lovegood",
+      "age": 24,
+      "id": 6
+    },
+    {
+      "name": "Neville",
+      "lastName": "Longbottom",
+      "age": 26,
+      "id": 7
+    },
+    {
+      "name": "Cho",
+      "lastName": "Chang",
+      "age": 25,
+      "id": 8
+    },
+    {
+      "name": "Cedric",
+      "lastName": "Diggory",
+      "age": 27,
+      "id": 9
+    },
+    {
+      "name": "Sirius",
+      "lastName": "Black",
+      "age": 34,
+      "id": 10
+    },
+    {
+      "name": "Remus",
+      "lastName": "Lupin",
+      "age": 35,
+      "id": 11
+    },
+    {
+      "name": "Severus",
+      "lastName": "Snape",
+      "age": 38,
+      "id": 12
+    },
+    {
+      "name": "Bellatrix",
+      "lastName": "Lestrange",
+      "age": 36,
+      "id": 13
+    },
+    {
+      "name": "Narcissa",
+      "lastName": "Malfoy",
+      "age": 37,
+      "id": 14
+    },
+    {
+      "name": "Lucius",
+      "lastName": "Malfoy",
+      "age": 40,
+      "id": 15
+    },
+    {
+      "name": "James",
+      "lastName": "Potter",
+      "age": 36,
+      "id": 16
+    },
+    {
+      "name": "Lily",
+      "lastName": "Potter",
+      "age": 35,
+      "id": 17
+    },
+    {
+      "name": "Albus",
+      "lastName": "Dumbledore",
+      "age": 120,
+      "id": 18
+    },
+    {
+      "name": "Rubeus",
+      "lastName": "Hagrid",
+      "age": 63,
+      "id": 19
+    },
+    {
+      "name": "Minerva",
+      "lastName": "McGonagall",
+      "age": 71,
+      "id": 20
+    }
+  ]
+  
